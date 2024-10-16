@@ -1,8 +1,8 @@
 {
-  "name": "service-example",
-  "vendor": "vtex",
-  "version": "0.2.26",
-  "title": "Service Example",
+  "name": "hook-service-listener",
+  "vendor": "dislicoresdev",
+  "version": "0.0.0",
+  "title": "Service Hook Listener de Dislicores",
   "description": "Reference app for VTEX IO Services",
   "mustUpdateAt": "2018-01-04",
   "categories": [],
